@@ -19,13 +19,13 @@ $ bundle install --path vendor/bundle
 
 ## 運用
 
-毎回イベントのたびに `commit` してもらったほうが歴史が残されていいかなと考えています。でも `tasks.yml` は管理しないほうがアプリとしての汎用度は高いかなあ。
+毎回イベントのたびに `commit` してもらったほうが歴史が残されていいかなと考えています。でも `task.yml` は管理しないほうがアプリとしての汎用度は高いかなあ。
 
 ``` shell
 $ git pull
-$ vim tasks.yml # 最新版のイベントにあわせてタイトルなど更新
-$ bundle exec ruby main.rb tasks.yml
-$ git add tasks.yml # 最新版のを残しておくことでバージョン管理できるかなって
+$ vim task.yml # 最新版のイベントにあわせてタイトルなど更新
+$ bundle exec ruby main.rb task.yml
+$ git add task.yml # 最新版のを残しておくことでバージョン管理できるかなって
 $ git commit -m '第x回のイベント'
 $ git push origin master
 
