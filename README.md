@@ -8,7 +8,7 @@ JAWS-UG 金沢 はイベントの開催タスクの管理に GitHub issue を使
 
 ## 最初のセットアップ
 
-```
+``` shell
 $ mkdir jaws-ug-kanazawa-event-task-generator
 $ cd jaws-ug-kanazawa-event-task-generator
 $ git clone https://github.com/jaws-ug-kanazawa/event-task-generator.git .
