@@ -23,16 +23,18 @@ tasks:
         - [ ] タイトル
         - [ ] doorkeeper への掲載
 
-  - title: 会場を押さえてdoorkeeper でイベントを作成・公開する
+  - title: doorkeeper でイベントを作成・公開する
     body: |
-      - [ ] 飲み会会場を押さえる
-      - [ ] 勉強会場を押さえる
-
+      https://jaws-ug.jp/bc/kanazawa/ の公式ページへ https://jawsug-kanazawa.doorkeeper.jp で作成したイベントから案内すること
+      
   - title: facebook 公式ページを更新する
     body: https://www.facebook.com/jawsug.kanazawa
 
-  - title: 公式ページを更新する
-    body:  https://jaws-ug.jp/bc/kanazawa/
+  - title: 会場を押さえて公式ページを更新する
+    body: |
+      https://jaws-ug.jp/bc/kanazawa/
+      - [ ] 飲み会会場を押さえる
+      - [ ] 勉強会場を押さえる
 
   - title: JAWS-UG公式イベントカレンダーにイベントを登録する
     body: https://jaws-ug.jp/calendar/
