@@ -1,4 +1,4 @@
-event: 第17回
+event: 第19回
 repository: jaws-ug-kanazawa/jaws-ug-kanazawa.github.io
 tasks:
   - title: イベントの内容・日時を決める
@@ -27,7 +27,7 @@ tasks:
   - title: doorkeeper でイベントを作成・公開する
     body: |
       https://jaws-ug.jp/bc/kanazawa/ の公式ページへ https://jawsug-kanazawa.doorkeeper.jp で作成したイベントから案内すること
-      
+
   - title: facebook 公式ページを更新する
     body: https://www.facebook.com/jawsug.kanazawa
 
@@ -44,11 +44,9 @@ tasks:
     body: |
       - [ ] twitter(個人アカウントでよい)
       - [ ] facebook(公式ページのシェアなどでお願いします)
-      
+
   - title: 会計報告する
     body: |
       - [ ] 会場費 現金出納報告
       - [ ] 飲み会費 現金出納報告
       - [ ] Google スプレッドシートに上記記載
-  
-      
