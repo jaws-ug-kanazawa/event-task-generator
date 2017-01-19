@@ -1,0 +1,27 @@
+event: 第20回meetup
+repository: jaws-ug-kanazawa/jaws-ug-kanazawa.github.io
+tasks:
+  - title: doorkeeper でイベントを作成・公開する
+    body: |
+      https://jaws-ug.jp/bc/kanazawa/ の公式ページへ https://jawsug-kanazawa.doorkeeper.jp で作成したイベントから案内すること
+
+  - title: facebook 公式ページを更新する
+    body: https://www.facebook.com/jawsug.kanazawa
+
+  - title: 宴会場を押さえて公式ページを更新する
+    body: |
+      https://jaws-ug.jp/bc/kanazawa/
+      - [ ] 飲み会会場を押さえる
+
+  - title: JAWS-UG公式イベントカレンダーにイベントを登録する
+    body: https://jaws-ug.jp/calendar/
+
+  - title: 定期的に集客する
+    body: |
+      - [ ] twitter(個人アカウントでよい)
+      - [ ] facebook(公式ページのシェアなどでお願いします)
+
+  - title: 会計報告する
+    body: |
+      - [ ] 飲み会費 現金出納報告
+      - [ ] Google スプレッドシートに上記記載
