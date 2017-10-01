@@ -1,4 +1,4 @@
-event: "第23回meetup"
+event: "第27回meetup"
 repository: jaws-ug-kanazawa/jaws-ug-kanazawa.github.io
 tasks:
   - title: doorkeeper でイベントを作成・公開する
@@ -8,13 +8,8 @@ tasks:
   - title: facebook 公式ページを更新する
     body: https://www.facebook.com/jawsug.kanazawa
 
-  - title: 宴会場を押さえて公式ページを更新する
-    body: |
-      https://jaws-ug.jp/bc/kanazawa/
-      - [ ] 飲み会会場を押さえる
-
-  - title: JAWS-UG公式イベントカレンダーにイベントを登録する
-    body: https://jaws-ug.jp/calendar/
+  - title: JAWS-UG公式ページに連絡する
+    body: https://goo.gl/forms/ifV90WkTVYb9wMKt2 のフォームに入力すること
 
   - title: 定期的に集客する
     body: |
