@@ -1,4 +1,4 @@
-event: 第32回(平日回)
+event: 第33回(平日回)
 repository: jaws-ug-kanazawa/jaws-ug-kanazawa.github.io
 tasks:
   - title: イベントの内容・日時を決める
@@ -41,6 +41,9 @@ tasks:
 
   - title: 定期的に集客する
     body: |
+      - [ ] JAWS-UG 金沢 slack
+      - [ ] JAWS-UG 本家 slack
+      - [ ] JAWS-UG 本家 slack \#jawsug-chubu
       - [ ] twitter(個人アカウントでよい)
       - [ ] facebook(公式ページのシェアなどでお願いします)
 
