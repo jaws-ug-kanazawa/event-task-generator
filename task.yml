@@ -1,4 +1,4 @@
-event: 第33回(平日回)
+event: 第65回 オンラインもくもく AWS IoT EduKitワークショップ
 repository: jaws-ug-kanazawa/jaws-ug-kanazawa.github.io
 tasks:
   - title: イベントの内容・日時を決める
@@ -7,19 +7,7 @@ tasks:
         - [ ] Google カレンダーに記入
       - [ ] 内容
       - [ ] テーマ
-      - [ ] セッションタイトル1
-        - [ ] スピーカ
-        - [ ] タイトル
-        - [ ] doorkeeper への掲載
-      - [ ] セッションタイトル2
-        - [ ] スピーカ
-        - [ ] タイトル
-        - [ ] doorkeeper への掲載
-      - [ ] セッションタイトル3
-        - [ ] スピーカ
-        - [ ] タイトル
-        - [ ] doorkeeper への掲載
-      - [ ] セッションタイトル4
+      - [ ] セッションタイトル
         - [ ] スピーカ
         - [ ] タイトル
         - [ ] doorkeeper への掲載
@@ -28,8 +16,10 @@ tasks:
     body: |
       https://jawsug-kanazawa.doorkeeper.jp
 
-  - title: facebook 公式ページを更新する
-    body: https://www.facebook.com/jawsug.kanazawa
+  - title: SNS 公式ページを更新する
+    body: |
+      - [ ] https://www.facebook.com/jawsug.kanazawa
+      - [ ] https://twitter.com/jawsug_kanazawa
 
   - title: 会場を押さえる
     body: |

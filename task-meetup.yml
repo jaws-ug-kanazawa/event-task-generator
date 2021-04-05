@@ -1,12 +1,14 @@
-event: "第29回meetup"
+event: "第37回meetup"
 repository: jaws-ug-kanazawa/jaws-ug-kanazawa.github.io
 tasks:
   - title: doorkeeper でイベントを作成・公開する
     body: |
       https://jaws-ug.jp/bc/kanazawa/ の公式ページへ https://jawsug-kanazawa.doorkeeper.jp で作成したイベントから案内すること
 
-  - title: facebook 公式ページを更新する
-    body: https://www.facebook.com/jawsug.kanazawa
+  - title: SNS 公式ページを更新する
+    body: |
+      - [ ] https://www.facebook.com/jawsug.kanazawa
+      - [ ] https://twitter.com/jawsug_kanazawa
 
   - title: JAWS-UG公式ページに連絡する
     body: https://goo.gl/forms/ifV90WkTVYb9wMKt2 のフォームに入力すること
