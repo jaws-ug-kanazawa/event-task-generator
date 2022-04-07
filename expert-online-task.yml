@@ -1,4 +1,4 @@
-event: <%= title || '第65回 オンラインもくもく AWS IoT EduKitワークショップ' %>
+event: 第67回 AWS Expert Online これが基本のマルチアカウント管理
 repository: jaws-ug-kanazawa/jaws-ug-kanazawa.github.io
 tasks:
   - title: イベントの内容・日時を決める
